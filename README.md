@@ -28,18 +28,7 @@ This project addresses a real-world medical imaging problem where training label
 4. **Results**
    - Validation accuracy improved compared to baseline.
    - Training accuracy remained low, indicating reduced memorization of noise.
-
-## Repository Structure
-
-dermatology-noisy-labels/
-├── notebook/
-│ └── noisy_label_derma.ipynb
-├── models/
-│ └── skin_model_noise_robust.pth
-├── inference/
-│ └── inference.py
-├── requirements.txt
-└── README.md
+     
 
 ## Running Inference on New Data
 
